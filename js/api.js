@@ -6,10 +6,10 @@ const API = (() => {
   // Chaves de API (estas seriam idealmente armazenadas no backend em ambiente de produção)
   const API_KEYS = {
     newsapi: "YOUR_NEWSAPI_KEY",
-    gnews: "YOUR_GNEWS_KEY",
-    mediastack: "YOUR_MEDIASTACK_KEY",
-    pandascore: "YOUR_PANDASCORE_KEY",
-    twitter: "YOUR_TWITTER_KEY",
+    gnews: "9277f7a1d4fbd9d8bdb37c55de999cbd",
+    mediastack: "1b4a9becd9fba06190284a63dc32e1fd",
+    pandascore: "m9do5NDubkZeFwaInZRFHZ7f8gui7GhRRBPxQ9BRCBKtuBGMU68",
+    twitter: "1920187953352937472Larapio_",
     serpapi: "YOUR_SERPAPI_KEY",
     youtube: "YOUR_YOUTUBE_KEY",
     twitch: "YOUR_TWITCH_KEY",

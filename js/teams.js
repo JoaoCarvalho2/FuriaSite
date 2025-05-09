@@ -618,7 +618,7 @@ const Teams = (() => {
       card.innerHTML = `
           <div class="match-teams">
               <div class="team-furia">
-                  <img src="assets/images/furia-logo.png" alt="FURIA" class="team-logo">
+                  <img src="https://upload.wikimedia.org/wikipedia/pt/f/f9/Furia_Esports_logo.png" alt="FURIA" class="team-logo">
                   <span class="team-name">FURIA</span>
               </div>
               <span class="vs">vs</span>
@@ -729,7 +729,7 @@ const Teams = (() => {
                       
                       <div class="next-match-teams">
                           <div class="next-team next-furia">
-                              <img src="assets/images/furia-logo.png" alt="FURIA" class="next-team-logo">
+                              <img src="https://upload.wikimedia.org/wikipedia/pt/f/f9/Furia_Esports_logo.png" alt="FURIA" class="next-team-logo">
                               <span class="next-team-name">FURIA</span>
                           </div>
                           
